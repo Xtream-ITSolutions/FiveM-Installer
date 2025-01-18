@@ -76,10 +76,10 @@ chmod +x <skript-name>.sh
 
 
 ### Skript ausführen:  
-```Führe das Skript mit **root-Rechten** aus:
+Führe das Skript mit **root-Rechten** aus:
 
-bash
-sudo ./<skript-name>.sh```
+```bash
+sudo ./<skript-name>.sh
 
 ---
 
