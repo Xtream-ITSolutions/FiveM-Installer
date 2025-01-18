@@ -54,7 +54,7 @@ Führe das Skript `lamp-phpmyadmin-installer.sh` aus, um die Umgebung einzuricht
 
 1. **Repository klonen:**  
    Klone das Repository auf deinen Server:
-   ```bash
+   ``bash
    git clone https://github.com/Xtream-ITSolutions/fivem-installer.git
    cd fivem-installer
 
@@ -70,10 +70,12 @@ Wähle das Skript, das du installieren möchtest:
 
 ### Skript ausführbar machen:  
    Führe das Skript mit **root-Rechten** aus:
+   ``bash
    chmod +x <skript-name>.sh
 
 ### Skript ausführen:  
    Führe das Skript mit **root-Rechten** aus:
+   ``bash
    sudo ./<skript-name>.sh
 
 ---
