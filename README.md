@@ -83,7 +83,7 @@ sudo ./<skript-name>.sh```
 
 ---
 
-## **Support und Kontakt** 📞  
+### **Support und Kontakt** 📞  
 Benötigst du Hilfe? Wende dich an uns!  
 Wir bieten Support für alle unsere Skripte und Dienste.
 
@@ -93,7 +93,7 @@ Wir bieten Support für alle unsere Skripte und Dienste.
 
 ---
 
-## **Mitwirken** 🤝  
+### **Mitwirken** 🤝  
 Möchtest du zum Projekt beitragen? Wir freuen uns über deine Unterstützung!  
 Folge diesen Schritten:
 
@@ -106,7 +106,7 @@ Folge diesen Schritten:
 
 ---
 
-## **Haftungsausschluss** ⚠️  
+### **Haftungsausschluss** ⚠️  
 Diese Skripte werden von **Xtream-ITSolutions UG** zur Vereinfachung der Servereinrichtung bereitgestellt. Es wird empfohlen, sie zunächst in einer Testumgebung zu testen, bevor sie auf produktiven Systemen eingesetzt werden.
 
 - **Haftungsausschluss:** Xtream-ITSolutions UG übernimmt keine Verantwortung für etwaige Probleme, die durch die Nutzung dieser Skripte entstehen.  
@@ -114,7 +114,7 @@ Diese Skripte werden von **Xtream-ITSolutions UG** zur Vereinfachung der Servere
 
 ---
 
-## **Lizenz** 📜
+### **Lizenz** 📜
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  
 [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)  
