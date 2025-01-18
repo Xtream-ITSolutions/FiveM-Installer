@@ -81,6 +81,8 @@ Führe das Skript mit **root-Rechten** aus:
 ```bash
 sudo ./<skript-name>.sh
 
+---
+
 ## **Support und Kontakt** 📞  
 Benötigst du Hilfe? Wende dich an uns!  
 Wir bieten Support für alle unsere Skripte und Dienste.
