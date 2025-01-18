@@ -69,14 +69,11 @@ Wähle das Skript, das du installieren möchtest:
 ---
 
 ### Skript ausführbar machen:  
-Mache das gewählte Skript ausführbar:
-
-```bash
+   Führe das Skript mit **root-Rechten** aus:
    chmod +x <skript-name>.sh
 
-
 ### Skript ausführen:  
-Führe das Skript mit **root-Rechten** aus:
+   Führe das Skript mit **root-Rechten** aus:
    sudo ./<skript-name>.sh
 
 ---
